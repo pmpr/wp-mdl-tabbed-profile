@@ -1,0 +1,27 @@
+{
+  "name": "pmpr/wp-pkg-tabbed-profile",
+  "type": "project",
+  "license": "proprietary",
+  "description": "Tabbed Profile Package for Wordpress",
+  "keywords": [
+    "wordpress",
+    "package",
+    "profile",
+    "tabbed",
+    "admin",
+    "user"
+  ],
+  "require": {
+    "php": ">=7.4",
+    "pmpr/wp-cmn-foundation": "dev-main"
+  },
+  "autoload": {
+    "psr-4": {
+      "Pmpr\\Package\\TabbedProfile\\": "src/Pmpr/Package/TabbedProfile"
+    },
+    "files": [
+      "index.php"
+    ]
+  },
+  "minimum-stability": "dev"
+}
