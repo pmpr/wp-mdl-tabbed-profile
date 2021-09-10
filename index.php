@@ -1,9 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             613bb99ac92d2             |
+    |             613bbc19ba98f             |
     |_______________________________________|
 */
-
-use Pmpr\Package\TabbedProfile\TabbedProfile;
-TabbedProfile::symcgieuakksimmu();
+ use Pmpr\Package\TabbedProfile\TabbedProfile; TabbedProfile::symcgieuakksimmu();
