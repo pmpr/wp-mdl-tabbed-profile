@@ -1,5 +1,5 @@
 {
-  "name": "pmpr/package/wp-pkg-tabbed-profile",
+  "name": "pmpr-pkg/wp-pkg-tabbed-profile",
   "type": "project",
   "license": "proprietary",
   "description": "Tabbed Profile Package for Wordpress",
@@ -13,7 +13,7 @@
   ],
   "require": {
     "php": ">=7.4",
-    "pmpr/common/wp-cmn-foundation": "dev-main"
+    "pmpr-cmn/wp-cmn-foundation": "dev-main"
   },
   "autoload": {
     "psr-4": {
