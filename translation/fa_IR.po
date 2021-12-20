@@ -25,3 +25,4 @@ msgstr ""
 #: src/Pmpr/TabbedProfile/TabbedProfile.php:28
 msgid "Miscellaneous"
 msgstr "متفرقه"
+
