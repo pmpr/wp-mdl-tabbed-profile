@@ -4,4 +4,4 @@
     |             624013ca62acc             |
     |_______________________________________|
 */
- use Pmpr\Module\TabbedProfile\TabbedProfile; TabbedProfile::symcgieuakksimmu();
+ namespace Pmpr\Module\TabbedProfile; use Pmpr\Common\Foundation\Container\Container as BaseClass; class Container extends BaseClass { }

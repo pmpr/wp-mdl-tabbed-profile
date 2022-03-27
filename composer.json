@@ -1,8 +1,8 @@
 {
-  "name": "pmpr-pkg/wp-pkg-tabbed-profile",
+  "name": "pmpr-mod/wp-mod-tabbed-profile",
   "type": "project",
   "license": "proprietary",
-  "description": "Tabbed Profile Package for Wordpress",
+  "description": "Tabbed Profile Module for Wordpress",
   "keywords": [
     "wordpress",
     "package",
@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Pmpr\\Package\\TabbedProfile\\": "src/Pmpr/Package/TabbedProfile"
+      "Pmpr\\Module\\TabbedProfile\\": "src/Pmpr/Module/TabbedProfile"
     },
     "files": [
       "index.php"
