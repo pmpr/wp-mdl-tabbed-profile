@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             624eb456f0557             |
+    |             630b4be8b1487             |
     |_______________________________________|
 */
- namespace Pmpr\Module\TabbedProfile; use Pmpr\Common\Foundation\Container\Container as BaseClass; class Container extends BaseClass { }
+ namespace Pmpr\Module\TabbedProfile; use Pmpr\Common\Foundation\Container\Container as BaseClass; abstract class Container extends BaseClass { }
