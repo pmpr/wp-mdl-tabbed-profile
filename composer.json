@@ -1,34 +1,9 @@
 {
-  "name": "pmpr-mdl/wp-mdl-tabbed-profile",
-  "type": "project",
-  "license": "proprietary",
-  "description": "Tabbed Profile Module for Wordpress",
-  "keywords": [
-    "wordpress",
-    "package",
-    "profile",
-    "tabbed",
-    "admin",
-    "user"
-  ],
-  "require": {
-    "php": ">=8.2",
-    "pmpr-cmn/wp-cmn-foundation": "~1.4"
-  },
   "prod-require": {
     "php": "8.2",
     "wordpress": "6.0",
     "wp-cmn-foundation": "latest"
   },
-  "autoload": {
-    "psr-4": {
-      "Pmpr\\Module\\TabbedProfile\\": "src/Pmpr/Module/TabbedProfile"
-    },
-    "files": [
-      "index.php"
-    ]
-  },
-  "minimum-stability": "dev",
-  "tag": "1.1.22",
-  "timestamp": "1726671015"
+  "tag": "1.1.23",
+  "timestamp": "1728924514"
 }
